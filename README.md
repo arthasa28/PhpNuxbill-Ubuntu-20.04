@@ -49,13 +49,16 @@ Instalasi Database
 mysql -u root -p
 ```
 ```bash
-create user 'arthasa'@'localhost'identified by'081212';
+create user 'arthasa'@'localhost'identified by'Password';
 ```
 ```bash
 CREATE DATABASE phpnuxbill;
 ```
 ```bash
 grant all on phpnuxbill.* to 'arthasa'@'localhost';
+```
+```bash
+FLUSH PRIVILEGES;
 ```
 ```bash
 EXIT;

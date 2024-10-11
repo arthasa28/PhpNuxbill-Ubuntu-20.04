@@ -75,10 +75,6 @@ Clone PHPNuxBill
 ```bash
 sudo git clone https://github.com/hotspotbilling/phpnuxbill.git
 ```
-Masuk Directory PhpNuxbill
-```bash
-cd phpnuxbill
-```
 Konfigurasi folder permission
 ```bash
 sudo chown -R www-data:www-data /var/www/phpnuxbill 

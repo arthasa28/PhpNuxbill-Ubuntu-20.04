@@ -121,6 +121,8 @@ systemctl status apache2
 
 ## Donate
 - [Saweria](https://saweria.co/arthasyarif)
-- <img src="https://github.com/arthasa28/PhpNuxbill-Ubuntu-20.04/blob/master/qris.jpg?raw=true" alt="Deskripsi gambar" width="300" height="450"/>
+<center>
+<img src="https://github.com/arthasa28/PhpNuxbill-Ubuntu-20.04/blob/master/qris.jpg?raw=true" alt="Deskripsi gambar" width="300" height="450"/>
+</center>
 
 

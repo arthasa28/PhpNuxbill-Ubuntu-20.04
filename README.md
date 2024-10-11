@@ -23,16 +23,15 @@ sudo apt install phpmyadmin
 
 <br>
 
+<h3>PopUp 1</h3>
 <p>
   Jika Muncul Pop-Up "Configuring phpmyadmin" <br>
   "Web Server to reconfigure automatically" <br>
   Pilih <strong> Apache2 </strong>
 </p>
 <br>
-
-<br>
+<h3>PopUp 2</h3>
 <p>
-  
   Jika Muncul Pop-Up "Configuring phpmyadmin" <br>
   "Web Server to reconfigure automatically" <br>
   Pilih <strong> Apache2 </strong>

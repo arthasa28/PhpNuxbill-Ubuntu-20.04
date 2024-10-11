@@ -65,7 +65,7 @@ EXIT;
 ```
 Install PHP dan beberapa ekstensi yang diperlukan
 ```bash
-sudo apt install php libapache2-mod-php php-mysql php-xml php-mbstring php-zip php-curl mariadb-server -y
+sudo apt install php libapache2-mod-php php-mysql php-xml php-mbstring php-zip php-curl  -y
 ```
 Navigasi ke direktori web root Apache
 ```bash

@@ -14,11 +14,11 @@ sudo apt update
 ```
 Install Plugin Php Mysql-Server Mysql-Client
 ```bash
-sudo apt  install php mysql-server mysql-client
+sudo apt install php mysql-server mysql-client -y
 ```
 Install Plugin Phpmyadmin
 ```bash
-sudo apt install phpmyadmin
+sudo apt install phpmyadmin -y
 ```
 
 <br>

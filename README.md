@@ -117,6 +117,8 @@ sudo systemctl restart apache2
 systemctl status apache2
 ```
 
+Buka Ip Server Kalian http://Ip-Server/
+
 
 
 ## Donate

@@ -1,4 +1,4 @@
-## PhpNuxbill-Ubuntu-20.04
+# PhpNuxbill-Ubuntu-20.04
 PhpNuxbill di Ubuntu Server 20.04
 
 
@@ -22,12 +22,23 @@ sudo apt install phpmyadmin
 ```
 
 <br>
+
 <p>
   Jika Muncul Pop-Up "Configuring phpmyadmin" <br>
   "Web Server to reconfigure automatically" <br>
   Pilih <strong> Apache2 </strong>
 </p>
 <br>
+
+<br>
+<p>
+  
+  Jika Muncul Pop-Up "Configuring phpmyadmin" <br>
+  "Web Server to reconfigure automatically" <br>
+  Pilih <strong> Apache2 </strong>
+</p>
+<br>
+
 
 ##
 ```bash
